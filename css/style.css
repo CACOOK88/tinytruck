@@ -1,0 +1,13 @@
+body {
+    background: #4C260B;
+   
+}
+
+.navbar {
+    background: green;
+}
+
+.navbar-brand {
+    background: #4C260B;
+    color: #ccc !important;
+}
